@@ -16,6 +16,7 @@ Content of the repository:
  - crawler/: contain the nodejs file for crawl information from Google PlayStore;
  - dummy_apps/: here are all the apk for dummy applications used for testing purposes;
  - php/: contain all the php scripts used to interface client and server;
+ - uml/: some uml schema;
  - myHealth.apk: apk to install the application;
  - paper_myHealth.pdf: a brief document explaining all the details about application;
  - presentation_myHealth.pptx: used to present the application projectwork;
