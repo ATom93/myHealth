@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string-array name="food_list">
+        <item>Pizza</item>
+        <item>Pasta</item>
+        <item>Sweets</item>
+        <item>Fruit</item>
+        <item>Meat</item>
+        <item>Fish</item>
+        <item>Bread</item>
+        <item>Hamburger</item>
+        <item>Sandwich</item>
+    </string-array>
+</resources>
